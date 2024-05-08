@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryankumar170
+- 👋 Hi, I’m Aryan Kumar
 - 👀 I’m interested in C Programming
 - 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on C Programming
